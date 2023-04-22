@@ -1,0 +1,27 @@
+body {
+    background-size: cover;
+   background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.button
+{
+font-size: 18px;
+border-radius: 20px;
+}
+
+#back {
+    margin-right: 10px;
+}
+
+canvas {
+    box-shadow: 20px 20px 30px blueviolet;
+    border-radius: 20px;
+}
+
